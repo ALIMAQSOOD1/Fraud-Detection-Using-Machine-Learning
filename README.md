@@ -1,5 +1,8 @@
 # Fraud-Detection-Using-Machine-Learning
 
+![image](https://github.com/user-attachments/assets/39258882-782e-4693-9939-2ff1e088945a)
+
+
 ## Overview
 
 Fraud detection and prevention is a critical challenge in the financial and insurance industries. In this project, I developed a **Fraud Detection and Prevention System** using advanced **Machine Learning (ML)** and **Deep Learning (DL)** techniques. The goal of this system is to identify fraudulent activities accurately and promptly to safeguard financial transactions and insurance claims.
